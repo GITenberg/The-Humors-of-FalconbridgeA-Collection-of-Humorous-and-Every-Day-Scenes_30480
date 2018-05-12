@@ -1,0 +1,31 @@
+_repo: The-Humors-of-FalconbridgeA-Collection-of-Humorous-and-Every-Day-Scenes_30480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Falconbridge
+    aliases:
+    - Kelly, Jonathan Falconbridge
+    - Kelley, Jonathan Falconbridge
+    birthdate: 1818
+    deathdate: 1854
+    gutenberg_agent_id: '34635'
+    url: http://www.gutenberg.org/2009/agents/34635
+description: ''
+gutenberg_issued: '2009-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American wit and humor'
+title: 'The Humors of Falconbridge
+
+  A Collection of Humorous and Every Day Scenes'
+url: http://www.gutenberg.org/ebooks/30480
